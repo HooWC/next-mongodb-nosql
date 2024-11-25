@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+Add .env file
+
+```bash
+MONGODB_URI=mongodb://localhost:27017/nextjsdb
+```
+
 ## Getting Started
 
 First, run the development server:
